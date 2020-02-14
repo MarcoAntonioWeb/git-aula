@@ -1,0 +1,14 @@
+{
+  "name": "git-aula",
+  "version": "1.0.0",
+  "description": "\"Respositorio exemplo para o artigo sobre subir projetos front-end\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "\"echo \\\"Error: no test specified\\\" && exit 1\""
+  },
+  "author": "Marco Antonio",
+  "license": "MIT",
+  "devDependencies": {
+    "gh-pages": "^2.2.0"
+  }
+}
