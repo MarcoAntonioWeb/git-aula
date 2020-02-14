@@ -4,7 +4,9 @@
   "description": "\"Respositorio exemplo para o artigo sobre subir projetos front-end\"",
   "main": "index.js",
   "scripts": {
-    "test": "\"echo \\\"Error: no test specified\\\" && exit 1\""
+    "test": "\"echo \"Error: no test specified\" && exit 1",
+    "publish": "./node_modules/.bin/gh-pages -d dist/ -d dist/"
+  
   },
   "author": "Marco Antonio",
   "license": "MIT",
